@@ -6,7 +6,6 @@ import java.sql.Statement;
 
 // xasxasxas
 
-// sdcsdcs
 
 public class JDBCDemo {
 	private static final String URL = "jdbc:mysql://localhost:3306/test1";
