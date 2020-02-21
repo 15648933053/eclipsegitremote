@@ -4,11 +4,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-<<<<<<< HEAD
-// 123
-=======
->>>>>>> branch 'master' of https://github.com/15648933053/eclipsegitremote.git
-// 456
 public class JDBCDemo {
 	private static final String URL = "jdbc:mysql://localhost:3306/test1";
 	private static final String USERNAME = "root";
