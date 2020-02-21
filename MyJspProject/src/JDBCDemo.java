@@ -5,8 +5,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 // xasxasxas
-
-// aaaa
 public class JDBCDemo {
 	private static final String URL = "jdbc:mysql://localhost:3306/test1";
 	private static final String USERNAME = "root";
